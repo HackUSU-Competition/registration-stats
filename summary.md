@@ -1,10 +1,5 @@
 # Registration Information
 
-## Registration
-
-![registrations by date](./output/registrations_by_date.png)
-![registrations cumulative by date](./output/registrations_cumulative_by_date.png)
-
 ## College Attendance
 
 ```text
@@ -22,8 +17,6 @@ Salt Lake Community College                 1
 Tech Elevator                               1
 Ogden-Weber Applied Technology College      1
 ```
-
-![college](./output/college.png)
 
 ## Major Attendance
 
@@ -52,9 +45,6 @@ music                                   2
 data science                            0
 ```
 
-![major](./output/major.png)
-![major](./output/major_x_cs.png)
-
 ## Category Interest
 
 ```text
@@ -63,5 +53,3 @@ Game Dev          128
 Hardware           40
 AI & ML            31
 ```
-
-![category interest](./output/category_interest.png)
